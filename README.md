@@ -1,1 +1,1 @@
-"# GOS_Mining" 
+"# Gos_Mining" 
